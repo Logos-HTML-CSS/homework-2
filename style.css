@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(161, 160, 160);
+}
+.block3 {
+    background-color: darkcyan;
+    color: white;
+    text-align: right;
+    font-size: larger;
+}
