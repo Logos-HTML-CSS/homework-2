@@ -1,0 +1,119 @@
+body {
+  background-color: #d3d3d3;
+}
+
+h1 {
+  background-color: #b23142;
+  color: #FFFFFF;
+  width: 200px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;;
+}
+
+.relatedStyle {
+  background-color: #008b8b;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: right;
+}
+
+#white-text {
+  background-color: #b22222; color: #FFFFFF;
+}
+
+#white-back {
+  background-color: #FFFFFF;
+  color: #ff6347;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#blue-back {
+  background-color: #008b8b;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: right;
+}
+
+.whiteText {
+  background-color: #b22222; color: #FFFFFF;
+}
+
+.whiteBack {
+  background-color: #FFFFFF;
+  color: #ff6347;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.blueBack {
+  background-color: #008b8b;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: right;
+}
+
+.borders {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.borderOne {
+  width: 600px;
+  height: 300px;
+  background-color: aqua;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: dashed red;
+}
+
+.borderTwo {
+  width: 600px;
+  height: 300px;
+  background-color: yellow;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 4mm ridge blue;
+}
+
+.borderThree {
+  width: 600px;
+  height: 300px;
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: thick double green;
+}
+
+.borderFour {
+  width: 600px;
+  height: 300px;
+  background-color: peru;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: dotted black;
+}
+
+.borderFive {
+  width: 600px;
+  height: 300px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-left: groove red;
+}
