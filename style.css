@@ -1,0 +1,10 @@
+p {
+    background-color: rgb(238, 175, 153);
+    color: blueviolet;
+}
+
+header {
+    background-color: cornsilk;
+    height: 100px;
+    width: 300px;
+}
