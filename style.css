@@ -1,10 +1,5 @@
-p {
-    background-color: rgb(238, 175, 153);
-    color: blueviolet;
-}
-
-header {
-    background-color: cornsilk;
-    height: 100px;
-    width: 300px;
+.block-element {
+    background-color: rgb(27, 184, 184);
+    color: white;
+    text-align: right;
 }
